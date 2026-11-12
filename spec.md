@@ -1,11 +1,13 @@
 
-# Bài nộp LAB5 — T3 Du lịch (Traveloka) · Nhóm [Tên Nhóm]
+# Bài nộp LAB5 — T3 Du lịch (Traveloka) · Nhóm WeBareBares
+
+**Lớp:** L3A · **Bàn / zone:** C4 · **Track:** T3
 
 | Thành viên        | Mã sinh viên | Vai trò đảm nhiệm chính                                                                                  |
 | ------------------- | -------------- | ------------------------------------------------------------------------------------------------------------- |
-| [Họ và tên SV 1] | [Mã SV 1]     | **Product & UX Lead:** Phụ trách §1, §2, §3 (Lát cắt, 8 kịch bản, UX khi AI sai, HAX/PAIR)     |
-| [Họ và tên SV 2] | [Mã SV 2]     | **System & Policy Lead:** Phụ trách §4, §6 (Mức tự chủ 5 tools, Cost-of-error, Eval Pass/Fail)   |
-| [Họ và tên SV 3] | [Mã SV 3]     | **Prototype & Tech Lead:** Phụ trách §5, §7 (Xây dựng Prototype HTML, AI Call bonus, Demo ca lạ) |
+| Lý Thanh Lâm | 2A202603475     | |
+| Phạm Trung Kiên | 2A202603479     | |
+| Nguyễn Thanh Tùng | 2A202603446     | |
 
 ---
 
